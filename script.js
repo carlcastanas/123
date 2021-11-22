@@ -1,7 +1,7 @@
 class Lock {
 
   constructor() {
-    this.pin = '1122';
+    this.pin = '0319';
     this.setupDom();
     this.setupFlickity();
     this.setupAudio();
